@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Actions</key>
+    <array>
+        <dict>
+            <key>After</key>
+            <string>preview-result</string>
+            <key>Image File</key>
+            <string>p2pop.png</string>
+            <key>Script Interpreter</key>
+            <string>/usr/bin/ruby</string>
+            <key>Shell Script File</key>
+            <string>main.rb</string>
+            <key>Title</key>
+            <string>p2pop</string>
+        </dict>
+    </array>
+    <key>Extension Description</key>
+    <string>p2p search.</string>
+    <key>Extension Identifier</key>
+    <string>com.customct.popclip.extension.p2pop</string>
+    <key>Extension Name</key>
+    <string>p2pop</string>
+    <key>Long Running</key>
+    <true/>
+</dict>
+</plist>
